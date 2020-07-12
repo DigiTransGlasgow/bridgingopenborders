@@ -5,7 +5,7 @@ layout: default
 
 # Rethinking Decentralisation
 
-#### Rachel Ryans
+#### Rachel Rayns
 
 In late 2016 was invited my Mozilla’s OpenIOT Studio to think about Decentralisation, particularly in rural environments.
 But first let’s start from the basics…
